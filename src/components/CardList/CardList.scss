@@ -1,0 +1,17 @@
+.cardList {
+  display: flex;
+  flex-wrap: wrap;
+  gap:30px;
+  width: 1080px;
+  justify-content: center;
+  .spin{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .alert{
+    margin:auto;
+
+
+  }
+}
